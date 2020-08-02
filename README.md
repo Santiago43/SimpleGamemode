@@ -13,7 +13,7 @@ Uso //Usage
 
 Alias //Aliases
 
--/sgm [0|1|2|3]
+- /sgm [0|1|2|3]
 
 
 Realmente, es un plugin muy simple. Ha sido elaborado para resolver el problema de asignar permisos individuales para cambiar el modo de juego
