@@ -1,0 +1,9 @@
+main: cv.simplegamemode.SimpleGamemode
+version: 1.0.0
+name: SimpleGamemode
+
+commands:
+ simplegamemode:
+  description: Comando principal
+  usage: /simplegamemode [modo de juego]
+  aliases: [sgm]
